@@ -1,2 +1,2 @@
 # rps
-A simple implementation of the game Rock,Paper,Scissors. 
+A simple game Rock,Paper,Scissors made using Javascript.
